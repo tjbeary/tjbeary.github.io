@@ -49,7 +49,7 @@ section {
     padding-bottom: 24px;
     padding-left: 24px;
     padding-right: 24px;
-    color:rgb(210, 195, 195)
-    border: 4px solid black;
+    color:rgb(210, 195, 195);
+    border: 4px solid #111111;
     border-radius: 10px;
 }
