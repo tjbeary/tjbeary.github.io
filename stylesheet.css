@@ -37,7 +37,7 @@ text-decoration: none;
 color: #000000;
 }
 nav li.selected {
-color: rgb(210, 195, 195);
+color: rgb(255, 255, 255);
 }
 section {
     background-color: rgb(32, 32, 32);
