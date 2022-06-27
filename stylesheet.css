@@ -53,3 +53,6 @@ section {
     border: 4px solid rgb(227, 176, 8);
     border-radius: 10px;
 }
+nav li.selected {
+    color: rgb(96, 96, 96);
+}
