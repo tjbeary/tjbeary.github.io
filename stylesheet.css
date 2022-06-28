@@ -43,3 +43,9 @@ section {
     border-radius: 10px; 
     background-color: rgb(0, 136, 255);
 }
+nav ul li:link {
+    color: rgb(0, 0, 0);
+}
+nav ul li:visited {
+    color: rgb(255, 255, 255);
+}
