@@ -43,3 +43,10 @@ nav ul li a {
     text-decoration: none;
     color: #111111;
 }
+ul {
+    background-color: #b577b5;
+    list-style-type: square;
+}
+ol {
+    background-color: #c0c0ff;
+}
