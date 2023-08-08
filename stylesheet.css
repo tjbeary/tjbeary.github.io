@@ -50,3 +50,14 @@ ul {
 ol {
     background-color: #c0c0ff;
 }
+p.class {
+    border: 4px dashed #00afeb;
+    border-radius: 10px;
+    padding: 16px;
+    background-color: #c5ebfb;
+}
+p.class::before {
+    color: orange;
+    content: "class: ";
+    font-weight: bold;
+}
