@@ -1,0 +1,31 @@
+<nav class="navbar">
+    <ul id="navbar-list">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about-me.html">About me</a></li>
+        <li>test</li>
+    </ul>
+</nav>
+
+<style>
+    .navbar {
+        color: black;
+    }
+    .navbar ul {
+        padding-left: 0;
+        list-style-type: none;
+        background-color: white;
+    }
+    .navbar ul li:last-child {
+        border-right: none;
+    }
+    .navbar ul li {
+        display: inline;
+        border-right: 2px solid #111111;
+        transition: border-right 500ms;
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+    .navbar li a {
+        text-decoration: none;
+    }
+</style>
